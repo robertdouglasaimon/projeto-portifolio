@@ -33,11 +33,15 @@ body {
     height: 65px;
     border-radius: 50%;
     border: 2px solid #fff;
-    text-decoration: underline;
     text-align: center;
     line-height: 60px;
     transition: 0.2s;
-    font-family: var(--fonte2-Raleway);    
+    font-family: var(--fonte2-Raleway); 
+    background-color: white; 
+}
+
+.cabecalho .logo img {
+    align-items: center;     
 }
 
 .cabecalho a:hover .logo {
