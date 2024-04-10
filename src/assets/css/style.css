@@ -223,6 +223,7 @@ body {
     opacity: 0;
     transition: 0.3s;
     padding-right: 4px;
+    text-align: center;
 }
 
 .projetos .container-projetos .projeto:hover .informacoes-projeto{
