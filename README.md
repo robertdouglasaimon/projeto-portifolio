@@ -1,6 +1,6 @@
-# Bem-vindo ao meu Portfólio!
+# Bem-vindo ao meu Portfólio! 
 
-Olá! Meu nome é Robert Douglas, e esta é minha página de portfólio, onde compartilho alguns dos meus projetos mais recentes e minhas habilidades em desenvolvimento web.
+Olá! Meu nome é Robert Douglas, e esta é minha <a href="https://robertdouglasaimon.github.io/projeto-portifolio/" targe="_blank">página de portfólio</a>, onde compartilho alguns dos meus projetos mais recentes e minhas habilidades em desenvolvimento web.
 
 ## Projetos
 
